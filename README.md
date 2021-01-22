@@ -3,10 +3,10 @@ Bash scripts for watching/listening to YouTube.
 Designed for Linux, probably will work on macOS/BSD.
 
 ## Requirements:
+- bash
 - mpv
 - fzf
 - (optional) rofi
-- bash
 
 yt.sh is for videos, yta.sh is for audio only.
 
