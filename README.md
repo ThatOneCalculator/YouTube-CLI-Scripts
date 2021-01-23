@@ -24,7 +24,7 @@ same goes for `yta.sh`.
 
 ## Wanna install these?
 
-```sh
-sudo mv yt.sh /usr/bin/yt
-sudo mv yta.sh /usr/bin/yta
+```bash
+sudo cp yt.sh /usr/bin/yt
+sudo cp yta.sh /usr/bin/yta
 ```
